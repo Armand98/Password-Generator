@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PassGen", "PassGen\PassGen.vcxproj", "{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PassGenSetup", "PassGenSetup\PassGenSetup.vdproj", "{0296F08C-19A0-4415-A9FB-2273736C378B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Debug|x64.ActiveCfg = Debug|x64
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Debug|x64.Build.0 = Debug|x64
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Debug|x86.Build.0 = Debug|Win32
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Release|x64.ActiveCfg = Release|x64
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Release|x64.Build.0 = Release|x64
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Release|x86.ActiveCfg = Release|Win32
+		{9B9CBE6A-EA02-4CC1-B729-E27D00BEDD1E}.Release|x86.Build.0 = Release|Win32
+		{0296F08C-19A0-4415-A9FB-2273736C378B}.Debug|x64.ActiveCfg = Debug
+		{0296F08C-19A0-4415-A9FB-2273736C378B}.Debug|x86.ActiveCfg = Debug
+		{0296F08C-19A0-4415-A9FB-2273736C378B}.Release|x64.ActiveCfg = Release
+		{0296F08C-19A0-4415-A9FB-2273736C378B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3F95AA-91FD-4E70-8D6B-10579E81966C}
+	EndGlobalSection
+EndGlobal
