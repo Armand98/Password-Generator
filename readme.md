@@ -1,1 +1,1 @@
-Password Generator
+# Password Generator and manager
