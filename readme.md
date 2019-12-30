@@ -1,1 +1,2 @@
-# Password Generator and manager
+# Password manager and password generator
+Something like KeePass
